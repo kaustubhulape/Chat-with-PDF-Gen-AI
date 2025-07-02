@@ -1,4 +1,4 @@
-This is Chat with PDF Project Code. Give me line to line explanation. import streamlit as st
+import streamlit as st
 from langchain_ollama import OllamaEmbeddings, ChatOllama
 from langchain_chroma import Chroma
 from langchain.prompts import ChatPromptTemplate
